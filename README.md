@@ -1,12 +1,12 @@
 # 🛒 Retail Sales Case Study
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes a **Retail Sales dataset** to uncover insights about business performance, customer behavior, and profitability.  
 We combined **SQL, Python, and Power BI** to clean, analyze, and visualize data in order to support data-driven decision-making.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Identify **best/worst performing products & categories**.  
 - Analyze **regional & market performance**.  
 - Understand **customer segment contributions**.  
@@ -15,7 +15,7 @@ We combined **SQL, Python, and Power BI** to clean, analyze, and visualize data 
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 - **SQL Server** → Data extraction & aggregation  
 - **Python (Pandas, Matplotlib, Seaborn)** → Data preparation & analysis  
 - **Power BI** → Interactive dashboards and KPIs  
@@ -23,7 +23,7 @@ We combined **SQL, Python, and Power BI** to clean, analyze, and visualize data 
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - **Technology** is the most profitable category, while **Furniture** underperformed.  
 - **West Region** leads in revenue; **South** region lags behind.  
 - **Q4 spike (Nov–Dec)** shows clear seasonality due to holiday demand.  
@@ -32,14 +32,14 @@ We combined **SQL, Python, and Power BI** to clean, analyze, and visualize data 
 
 ---
 
-## 📈 Deliverables
+##  Deliverables
 - **Interactive Power BI Dashboard** (Sales, Profit, Region, Segments, Trends)  
 - **SQL Queries & Python Scripts** (data aggregation & analysis)  
 - **Business Report** (Executive summary, insights, recommendations)  
 
 ---
 
-## 🚀 Recommendations
+##  Recommendations
 - Reassess discounting strategy to protect margins.  
 - Double down on **Technology category** growth.  
 - Fix **South region’s profitability issues**.  
