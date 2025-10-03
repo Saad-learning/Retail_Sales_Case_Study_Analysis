@@ -1,0 +1,475 @@
+O-1000,2024-01-01,C-208,Jane Smith,South,Furniture,T-Shirt,10,805.51999999999998,00:01:00.0000000,,Credit Card,Pending,,2024,1
+O-1001,2024-01-02,C-365,Ali Hassan,North,Furniture,Sofa,3,1550.01,00:25:00.0000000,,Cash,Cancelled,,2024,1
+O-1002,2024-01-03,C-498,Jane Smith,West,Furniture,Laptop,1,1187.3800000000001,00:01:00.0000000,,Bank Transfer,Pending,,2024,1
+O-1003,2024-01-04,C-371,Ali Hassan,East,Electronics,Headphones,2,932.38999999999999,00:07:00.0000000,,Cash,Cancelled,,2024,1
+O-1004,2024-01-05,C-218,Jane Smith,West,Clothing,Sofa,10,279.37,00:17:00.0000000,,Cash,Returned,,2024,1
+O-1005,2024-01-06,C-748,Jane Smith,East,Clothing,Laptop,10,976.87,00:02:00.0000000,,Credit Card,Cancelled,,2024,1
+O-1006,2024-01-07,C-703,Maria Garcia,West,Furniture,Headphones,4,691.49000000000001,00:23:00.0000000,,PayPal,Pending,,2024,1
+O-1007,2024-01-08,C-391,Fatima Noor,East,Electronics,Sofa,8,922.15999999999997,00:14:00.0000000,,Cash,Delivered,,2024,1
+O-1008,2024-01-09,C-694,Maria Garcia,East,Clothing,Laptop,9,155.11000000000001,00:27:00.0000000,,Bank Transfer,Pending,,2024,1
+O-1009,2024-01-10,C-564,Unknown,North,Clothing,Rice Bag,6,1622.75,00:13:00.0000000,,PayPal,Cancelled,,2024,1
+O-1010,2024-01-11,C-922,Fatima Noor,East,Groceries,Headphones,2,1060.0999999999999,00:01:00.0000000,,PayPal,Cancelled,,2024,1
+O-1011,2024-01-12,C-664,Jane Smith,West,Furniture,Laptop,4,28.109999999999999,00:02:00.0000000,,Credit Card,Returned,,2024,1
+O-1012,2024-01-13,C-364,Jane Smith,North,Clothing,Rice Bag,8,352.01999999999998,00:11:00.0000000,,Cash,Cancelled,,2024,1
+O-1013,2024-01-14,C-333,Wei Chen,East,Electronics,Laptop,4,818.11000000000001,00:19:00.0000000,,Credit Card,Pending,,2024,1
+O-1014,2024-01-15,C-910,Wei Chen,South,Clothing,Headphones,5,1974.6500000000001,00:25:00.0000000,,Credit Card,Delivered,,2024,1
+O-1015,2024-01-16,C-129,Wei Chen,North,Clothing,Laptop,1,313.56,00:21:00.0000000,,Cash,Returned,,2024,1
+O-1016,2024-01-17,C-206,Fatima Noor,North,Groceries,Sofa,7,1428.73,00:03:00.0000000,,PayPal,Returned,,2024,1
+O-1017,2024-01-18,C-747,Jane Smith,West,Furniture,Sofa,7,1124.3499999999999,00:11:00.0000000,,Credit Card,Delivered,,2024,1
+O-1018,2024-01-19,C-123,Ali Hassan,South,Furniture,Laptop,7,1070.05,00:28:00.0000000,,Bank Transfer,Returned,,2024,1
+O-1019,2024-01-20,C-924,Ali Hassan,North,Clothing,Table,9,182.50999999999999,00:02:00.0000000,,Bank Transfer,Delivered,,2024,1
+O-1020,2024-01-21,C-313,Ali Hassan,East,Furniture,Laptop,7,1767.24,00:21:00.0000000,,Bank Transfer,Pending,,2024,1
+O-1021,2024-01-22,C-886,Fatima Noor,North,Furniture,Rice Bag,6,1072.03,00:24:00.0000000,,Bank Transfer,Cancelled,,2024,1
+O-1022,2024-01-23,C-639,Ali Hassan,South,Groceries,T-Shirt,3,1446.1600000000001,00:19:00.0000000,,Cash,Returned,,2024,1
+O-1023,2024-01-24,C-344,Maria Garcia,North,Electronics,T-Shirt,4,1283.79,00:27:00.0000000,,PayPal,Returned,,2024,1
+O-1024,2024-01-25,C-244,Ali Hassan,East,Furniture,Table,4,595.96000000000004,00:11:00.0000000,,PayPal,Cancelled,,2024,1
+O-1025,2024-01-26,C-980,Jane Smith,East,Electronics,Laptop,8,479.81999999999999,00:21:00.0000000,,Credit Card,Pending,,2024,1
+O-1026,2024-01-27,C-906,Maria Garcia,West,Clothing,T-Shirt,3,403.76999999999998,00:26:00.0000000,,Credit Card,Cancelled,,2024,1
+O-1028,2024-01-29,C-282,Maria Garcia,North,Groceries,Laptop,8,1044.0799999999999,00:24:00.0000000,,PayPal,Returned,,2024,1
+O-1030,2024-01-31,C-604,Unknown,East,Groceries,Rice Bag,2,167.36000000000001,00:04:00.0000000,,Cash,Cancelled,,2024,1
+O-1031,2024-02-01,C-582,Ali Hassan,West,Groceries,T-Shirt,10,1374.76,00:28:00.0000000,,Cash,Returned,,2024,2
+O-1032,2024-02-02,C-477,Ali Hassan,South,Groceries,Rice Bag,8,330.68000000000001,00:04:00.0000000,,PayPal,Delivered,,2024,2
+O-1033,2024-02-03,C-951,Wei Chen,South,Clothing,T-Shirt,2,1739.8900000000001,00:13:00.0000000,,Bank Transfer,Pending,,2024,2
+O-1034,2024-02-04,C-861,John Doe,East,Furniture,Sofa,10,1516.75,00:19:00.0000000,,Bank Transfer,Delivered,,2024,2
+O-1035,2024-02-05,C-734,Maria Garcia,West,Electronics,Sofa,5,590.75,00:04:00.0000000,,Credit Card,Delivered,,2024,2
+O-1036,2024-02-06,C-898,Wei Chen,North,Furniture,T-Shirt,7,650.38999999999999,00:03:00.0000000,,Credit Card,Returned,,2024,2
+O-1037,2024-02-07,C-145,John Doe,South,Electronics,Sofa,6,774.10000000000002,00:02:00.0000000,,Cash,Pending,,2024,2
+O-1038,2024-02-08,C-994,Jane Smith,West,Furniture,Headphones,8,541.26999999999998,00:23:00.0000000,,PayPal,Cancelled,,2024,2
+O-1039,2024-02-09,C-284,John Doe,North,Groceries,T-Shirt,8,879.91999999999996,00:13:00.0000000,,Bank Transfer,Cancelled,,2024,2
+O-1040,2024-02-10,C-955,Maria Garcia,South,Electronics,T-Shirt,6,1005.17,00:08:00.0000000,,Credit Card,Returned,,2024,2
+O-1041,2024-02-11,C-477,John Doe,South,Electronics,Rice Bag,4,788.61000000000001,00:02:00.0000000,,PayPal,Delivered,,2024,2
+O-1042,2024-02-12,C-434,Fatima Noor,North,Groceries,Headphones,1,804.50999999999999,00:16:00.0000000,,Credit Card,Delivered,,2024,2
+O-1043,2024-02-13,C-262,Ali Hassan,East,Furniture,T-Shirt,8,750.36000000000001,00:01:00.0000000,,Bank Transfer,Returned,,2024,2
+O-1044,2024-02-14,C-415,John Doe,North,Clothing,T-Shirt,8,872.16999999999996,00:28:00.0000000,,PayPal,Returned,,2024,2
+O-1045,2024-02-15,C-736,Jane Smith,West,Furniture,Headphones,9,406.61000000000001,00:14:00.0000000,,Bank Transfer,Returned,,2024,2
+O-1046,2024-02-16,C-748,Wei Chen,West,Furniture,Sofa,8,1749.6099999999999,00:29:00.0000000,,Cash,Returned,,2024,2
+O-1048,2024-02-18,C-464,John Doe,East,Electronics,T-Shirt,6,189.53999999999999,00:15:00.0000000,,PayPal,Pending,,2024,2
+O-1049,2024-02-19,C-115,John Doe,West,Electronics,Laptop,3,1323.1600000000001,00:02:00.0000000,,PayPal,Cancelled,,2024,2
+O-1050,2024-02-20,C-335,Jane Smith,West,Electronics,Table,7,1454.4000000000001,00:28:00.0000000,,Bank Transfer,Pending,,2024,2
+O-1051,2024-02-21,C-291,Ali Hassan,South,Electronics,Table,8,1840.54,00:28:00.0000000,,Bank Transfer,Pending,,2024,2
+O-1052,2024-02-22,C-835,Ali Hassan,West,Groceries,Laptop,6,163.41,00:16:00.0000000,,Credit Card,Pending,,2024,2
+O-1053,2024-02-23,C-177,Ali Hassan,East,Clothing,Headphones,10,927.40999999999997,00:07:00.0000000,,PayPal,Delivered,,2024,2
+O-1054,2024-02-24,C-345,Maria Garcia,East,Clothing,Laptop,6,755.07000000000005,00:17:00.0000000,,PayPal,Cancelled,,2024,2
+O-1055,2024-02-25,C-614,Ali Hassan,West,Electronics,Table,10,1764.6400000000001,00:08:00.0000000,,Cash,Delivered,,2024,2
+O-1056,2024-02-26,C-728,John Doe,South,Groceries,Table,4,1872.0899999999999,00:06:00.0000000,,Cash,Returned,,2024,2
+O-1057,2024-02-27,C-807,Ali Hassan,North,Groceries,Sofa,5,508.99000000000001,00:21:00.0000000,,PayPal,Cancelled,,2024,2
+O-1058,2024-02-28,C-608,Wei Chen,South,Electronics,Table,5,179.55000000000001,00:09:00.0000000,,Credit Card,Cancelled,,2024,2
+O-1059,2024-02-29,C-741,John Doe,South,Furniture,T-Shirt,2,1885.6300000000001,00:28:00.0000000,,PayPal,Pending,,2024,2
+O-1060,2024-03-01,C-941,Ali Hassan,North,Groceries,Table,4,801.12,00:24:00.0000000,,Credit Card,Pending,,2024,3
+O-1061,2024-03-02,C-143,Jane Smith,North,Groceries,T-Shirt,1,32.119999999999997,00:07:00.0000000,,Credit Card,Cancelled,,2024,3
+O-1062,2024-03-03,C-311,Jane Smith,West,Furniture,Laptop,8,110.52,00:01:00.0000000,,Credit Card,Cancelled,,2024,3
+O-1063,2024-03-04,C-876,John Doe,South,Furniture,Rice Bag,6,1852.27,00:02:00.0000000,,Credit Card,Cancelled,,2024,3
+O-1064,2024-03-05,C-581,Wei Chen,East,Clothing,Sofa,6,478.92000000000002,00:21:00.0000000,,Cash,Pending,,2024,3
+O-1065,2024-03-06,C-992,Wei Chen,South,Electronics,Rice Bag,1,1629.8099999999999,00:13:00.0000000,,Credit Card,Delivered,,2024,3
+O-1066,2024-03-07,C-444,Wei Chen,South,Other,T-Shirt,8,248.94,00:02:00.0000000,,Cash,Delivered,,2024,3
+O-1067,2024-03-08,C-920,Wei Chen,West,Other,Laptop,6,1049.1300000000001,00:26:00.0000000,,Bank Transfer,Delivered,,2024,3
+O-1068,2024-03-09,C-526,Unknown,East,Furniture,T-Shirt,6,922.78999999999996,00:26:00.0000000,,PayPal,Cancelled,,2024,3
+O-1069,2024-03-10,C-904,Jane Smith,West,Groceries,T-Shirt,1,802.36000000000001,00:23:00.0000000,,Credit Card,Delivered,,2024,3
+O-1070,2024-03-11,C-734,John Doe,North,Furniture,Rice Bag,4,420.95999999999998,00:23:00.0000000,,Credit Card,Cancelled,,2024,3
+O-1071,2024-03-12,C-957,Ali Hassan,North,Groceries,Table,5,171.78999999999999,00:11:00.0000000,,PayPal,Cancelled,,2024,3
+O-1072,2024-03-13,C-410,Ali Hassan,North,Furniture,Rice Bag,8,299.97000000000003,00:02:00.0000000,,Cash,Returned,,2024,3
+O-1073,2024-03-14,C-903,Unknown,North,Groceries,Headphones,8,1250.5799999999999,00:29:00.0000000,,Credit Card,Cancelled,,2024,3
+O-1074,2024-03-15,C-323,Fatima Noor,North,Groceries,Table,7,1191.6800000000001,00:06:00.0000000,,Credit Card,Pending,,2024,3
+O-1075,2024-03-16,C-339,Ali Hassan,North,Groceries,Headphones,3,771.54999999999995,00:09:00.0000000,,Credit Card,Delivered,,2024,3
+O-1077,2024-03-18,C-353,Jane Smith,West,Groceries,Sofa,2,1535.71,00:19:00.0000000,,Credit Card,Returned,,2024,3
+O-1079,2024-03-20,C-901,Ali Hassan,South,Furniture,Laptop,8,983.16999999999996,00:12:00.0000000,,Cash,Returned,,2024,3
+O-1080,2024-03-21,C-736,Ali Hassan,East,Furniture,Sofa,6,475.48000000000002,00:07:00.0000000,,Cash,Returned,,2024,3
+O-1081,2024-03-22,C-739,John Doe,South,Groceries,Headphones,10,924.39999999999998,00:04:00.0000000,,Cash,Returned,,2024,3
+O-1082,2024-03-23,C-853,Jane Smith,North,Clothing,Table,9,1102.54,00:01:00.0000000,,PayPal,Pending,,2024,3
+O-1083,2024-03-24,C-522,Jane Smith,South,Clothing,Laptop,2,1402.8399999999999,00:18:00.0000000,,Credit Card,Delivered,,2024,3
+O-1084,2024-03-25,C-358,Unknown,North,Electronics,Headphones,10,1514.6900000000001,00:03:00.0000000,,Bank Transfer,Pending,,2024,3
+O-1085,2024-03-26,C-499,Wei Chen,South,Furniture,Laptop,2,705.45000000000005,00:26:00.0000000,,Bank Transfer,Cancelled,,2024,3
+O-1086,2024-03-27,C-861,Maria Garcia,East,Furniture,Laptop,3,1951.3199999999999,00:25:00.0000000,,PayPal,Returned,,2024,3
+O-1087,2024-03-28,C-701,Ali Hassan,South,Electronics,Table,7,1859.1600000000001,00:22:00.0000000,,Credit Card,Returned,,2024,3
+O-1088,2024-03-29,C-294,Wei Chen,West,Clothing,Rice Bag,8,1169.0799999999999,00:01:00.0000000,,Bank Transfer,Pending,,2024,3
+O-1089,2024-03-30,C-612,Wei Chen,East,Electronics,T-Shirt,8,395.85000000000002,00:18:00.0000000,,PayPal,Cancelled,,2024,3
+O-1091,2024-04-01,C-831,Fatima Noor,South,Electronics,T-Shirt,5,1501.6700000000001,00:09:00.0000000,,PayPal,Delivered,,2024,4
+O-1092,2024-04-02,C-616,Ali Hassan,East,Groceries,Headphones,7,1600.0999999999999,00:16:00.0000000,,PayPal,Pending,,2024,4
+O-1093,2024-04-03,C-465,Wei Chen,South,Electronics,Sofa,7,1635.4100000000001,00:22:00.0000000,,Credit Card,Cancelled,,2024,4
+O-1094,2024-04-04,C-190,Jane Smith,West,Clothing,Headphones,8,1396.79,00:14:00.0000000,,Cash,Cancelled,,2024,4
+O-1095,2024-04-05,C-634,Jane Smith,North,Furniture,Headphones,7,1311.1300000000001,00:02:00.0000000,,PayPal,Cancelled,,2024,4
+O-1096,2024-04-06,C-457,Jane Smith,East,Groceries,Sofa,8,1318.0599999999999,00:22:00.0000000,,PayPal,Delivered,,2024,4
+O-1097,2024-04-07,C-619,Maria Garcia,North,Furniture,T-Shirt,2,1160.27,00:18:00.0000000,,Bank Transfer,Pending,,2024,4
+O-1098,2024-04-08,C-948,Maria Garcia,South,Electronics,Sofa,9,1086.1099999999999,00:19:00.0000000,,Credit Card,Delivered,,2024,4
+O-1099,2024-04-09,C-548,Ali Hassan,South,Electronics,Rice Bag,3,1258.47,00:25:00.0000000,,Credit Card,Delivered,,2024,4
+O-1100,2024-04-10,C-568,Fatima Noor,East,Furniture,T-Shirt,5,1876.1300000000001,00:03:00.0000000,,Bank Transfer,Returned,,2024,4
+O-1102,2024-04-12,C-579,Maria Garcia,West,Electronics,T-Shirt,4,136.33000000000001,00:01:00.0000000,,PayPal,Returned,,2024,4
+O-1103,2024-04-13,C-738,Fatima Noor,South,Furniture,T-Shirt,3,832.10000000000002,00:09:00.0000000,,Bank Transfer,Pending,,2024,4
+O-1104,2024-04-14,C-518,Unknown,East,Clothing,Laptop,7,1339.46,00:08:00.0000000,,Bank Transfer,Delivered,,2024,4
+O-1105,2024-04-15,C-800,Fatima Noor,South,Electronics,Laptop,2,792.10000000000002,00:14:00.0000000,,Bank Transfer,Delivered,,2024,4
+O-1106,2024-04-16,C-333,Fatima Noor,North,Clothing,Rice Bag,7,699.61000000000001,00:17:00.0000000,,Bank Transfer,Cancelled,,2024,4
+O-1107,2024-04-17,C-142,Ali Hassan,North,Groceries,T-Shirt,1,1434.3499999999999,00:03:00.0000000,,Cash,Pending,,2024,4
+O-1108,2024-04-18,C-802,John Doe,East,Furniture,Sofa,1,1777.78,00:24:00.0000000,,Bank Transfer,Cancelled,,2024,4
+O-1109,2024-04-19,C-871,Fatima Noor,North,Furniture,Laptop,2,1216.8,00:12:00.0000000,,Cash,Returned,,2024,4
+O-1110,2024-04-20,C-960,John Doe,East,Furniture,Table,9,925.82000000000005,00:21:00.0000000,,Cash,Pending,,2024,4
+O-1111,2024-04-21,C-730,Maria Garcia,North,Electronics,T-Shirt,4,1043.77,00:14:00.0000000,,Cash,Returned,,2024,4
+O-1112,2024-04-22,C-805,Maria Garcia,East,Electronics,Rice Bag,6,649.91999999999996,00:19:00.0000000,,PayPal,Pending,,2024,4
+O-1113,2024-04-23,C-957,Ali Hassan,West,Electronics,Table,4,630.92999999999995,00:08:00.0000000,,Bank Transfer,Returned,,2024,4
+O-1114,2024-04-24,C-617,Ali Hassan,North,Furniture,Headphones,5,1413.6800000000001,00:04:00.0000000,,Cash,Delivered,,2024,4
+O-1116,2024-04-26,C-636,Jane Smith,South,Clothing,Laptop,8,145.27000000000001,00:14:00.0000000,,Bank Transfer,Cancelled,,2024,4
+O-1117,2024-04-27,C-773,Fatima Noor,North,Furniture,Headphones,7,734.60000000000002,00:21:00.0000000,,PayPal,Returned,,2024,4
+O-1118,2024-04-28,C-984,Fatima Noor,North,Electronics,Laptop,4,941.40999999999997,00:18:00.0000000,,Cash,Cancelled,,2024,4
+O-1119,2024-04-29,C-591,Wei Chen,North,Clothing,Sofa,4,1658.8199999999999,00:01:00.0000000,,Cash,Returned,,2024,4
+O-1120,2024-04-30,C-426,John Doe,North,Furniture,Headphones,7,546.42999999999995,00:09:00.0000000,,Credit Card,Pending,,2024,4
+O-1121,2024-05-01,C-797,Fatima Noor,West,Electronics,Rice Bag,10,1929.1099999999999,00:02:00.0000000,,PayPal,Delivered,,2024,5
+O-1122,2024-05-02,C-514,John Doe,North,Clothing,Rice Bag,10,903.67999999999995,00:05:00.0000000,,Bank Transfer,Cancelled,,2024,5
+O-1123,2024-05-03,C-305,Wei Chen,North,Other,Headphones,9,53.539999999999999,00:03:00.0000000,,PayPal,Pending,,2024,5
+O-1124,2024-05-04,C-256,Unknown,West,Other,Laptop,4,711.52999999999997,00:04:00.0000000,,Credit Card,Pending,,2024,5
+O-1125,2024-05-05,C-303,Ali Hassan,North,Clothing,Laptop,6,147.96000000000001,00:15:00.0000000,,PayPal,Pending,,2024,5
+O-1126,2024-05-06,C-384,John Doe,South,Electronics,Laptop,8,1270.6400000000001,00:27:00.0000000,,Cash,Cancelled,,2024,5
+O-1127,2024-05-07,C-464,Maria Garcia,North,Groceries,Laptop,9,1575.95,00:22:00.0000000,,Bank Transfer,Pending,,2024,5
+O-1128,2024-05-08,C-653,John Doe,South,Furniture,Laptop,4,1795.29,00:09:00.0000000,,Credit Card,Returned,,2024,5
+O-1129,2024-05-09,C-801,Jane Smith,East,Electronics,Sofa,7,1045.8599999999999,00:06:00.0000000,,Credit Card,Returned,,2024,5
+O-1130,2024-05-10,C-471,John Doe,East,Other,T-Shirt,2,590.51999999999998,00:16:00.0000000,,PayPal,Returned,,2024,5
+O-1131,2024-05-11,C-262,Maria Garcia,North,Electronics,Laptop,4,1888.51,00:02:00.0000000,,Cash,Returned,,2024,5
+O-1132,2024-05-12,C-786,Fatima Noor,North,Electronics,Headphones,1,275.72000000000003,00:25:00.0000000,,Credit Card,Cancelled,,2024,5
+O-1133,2024-05-13,C-337,Jane Smith,West,Clothing,Table,7,1619.01,00:17:00.0000000,,Cash,Delivered,,2024,5
+O-1134,2024-05-14,C-717,John Doe,East,Electronics,Sofa,6,533.45000000000005,00:18:00.0000000,,Credit Card,Delivered,,2024,5
+O-1135,2024-05-15,C-843,Fatima Noor,North,Groceries,T-Shirt,3,379.41000000000003,00:13:00.0000000,,Credit Card,Delivered,,2024,5
+O-1136,2024-05-16,C-490,John Doe,West,Electronics,Table,10,1093.3499999999999,00:19:00.0000000,,Bank Transfer,Delivered,,2024,5
+O-1137,2024-05-17,C-640,John Doe,South,Furniture,Laptop,7,422.17000000000002,00:18:00.0000000,,Credit Card,Cancelled,,2024,5
+O-1138,2024-05-18,C-894,Wei Chen,East,Electronics,Table,2,541.76999999999998,00:18:00.0000000,,PayPal,Returned,,2024,5
+O-1139,2024-05-19,C-688,Fatima Noor,South,Furniture,Rice Bag,3,464.08999999999997,00:06:00.0000000,,Cash,Cancelled,,2024,5
+O-1140,2024-05-20,C-897,John Doe,North,Furniture,T-Shirt,8,1634.9200000000001,00:02:00.0000000,,Credit Card,Pending,,2024,5
+O-1141,2024-05-21,C-814,Wei Chen,West,Electronics,T-Shirt,2,406.38,00:04:00.0000000,,Credit Card,Cancelled,,2024,5
+O-1142,2024-05-22,C-748,Wei Chen,South,Electronics,Rice Bag,5,1220.1600000000001,00:26:00.0000000,,Bank Transfer,Pending,,2024,5
+O-1143,2024-05-23,C-991,Fatima Noor,East,Electronics,Laptop,1,111.8,00:00:00.0000000,,Credit Card,Cancelled,,2024,5
+O-1144,2024-05-24,C-836,John Doe,North,Electronics,Rice Bag,4,1302.1500000000001,00:28:00.0000000,,Cash,Delivered,,2024,5
+O-1145,2024-05-25,C-441,Maria Garcia,South,Electronics,Headphones,7,328.54000000000002,00:21:00.0000000,,Bank Transfer,Delivered,,2024,5
+O-1146,2024-05-26,C-115,Wei Chen,North,Groceries,T-Shirt,6,1235.3,00:25:00.0000000,,Credit Card,Cancelled,,2024,5
+O-1147,2024-05-27,C-274,Wei Chen,South,Groceries,Rice Bag,5,1372.1600000000001,00:22:00.0000000,,Credit Card,Delivered,,2024,5
+O-1148,2024-05-28,C-602,Jane Smith,East,Furniture,Laptop,3,1500.51,00:01:00.0000000,,PayPal,Cancelled,,2024,5
+O-1149,2024-05-29,C-353,Wei Chen,North,Furniture,T-Shirt,2,1994.71,00:06:00.0000000,,Credit Card,Cancelled,,2024,5
+O-1150,2024-05-30,C-974,Fatima Noor,East,Furniture,T-Shirt,4,754.22000000000003,00:22:00.0000000,,Cash,Cancelled,,2024,5
+O-1151,2024-05-31,C-471,Wei Chen,West,Electronics,T-Shirt,10,472.81,00:26:00.0000000,,Cash,Delivered,,2024,5
+O-1152,2024-06-01,C-978,Fatima Noor,South,Furniture,Headphones,10,603.77999999999997,00:05:00.0000000,,Credit Card,Returned,,2024,6
+O-1153,2024-06-02,C-599,Wei Chen,South,Electronics,T-Shirt,9,1222.5,00:02:00.0000000,,Cash,Delivered,,2024,6
+O-1154,2024-06-03,C-849,Ali Hassan,South,Other,Headphones,4,1476.1500000000001,00:06:00.0000000,,PayPal,Returned,,2024,6
+O-1155,2024-06-04,C-424,Unknown,West,Clothing,Sofa,1,322.16000000000003,00:07:00.0000000,,Bank Transfer,Pending,,2024,6
+O-1156,2024-06-05,C-745,Jane Smith,East,Furniture,Laptop,9,395.67000000000002,00:25:00.0000000,,Cash,Delivered,,2024,6
+O-1157,2024-06-06,C-653,John Doe,East,Electronics,Sofa,3,107.7,00:02:00.0000000,,PayPal,Cancelled,,2024,6
+O-1158,2024-06-07,C-559,Jane Smith,North,Furniture,Rice Bag,9,21.109999999999999,00:00:00.0000000,,Cash,Delivered,,2024,6
+O-1159,2024-06-08,C-704,Maria Garcia,West,Furniture,T-Shirt,4,1256.1700000000001,00:13:00.0000000,,Cash,Delivered,,2024,6
+O-1160,2024-06-09,C-550,Wei Chen,North,Clothing,Rice Bag,4,29.420000000000002,00:21:00.0000000,,Cash,Pending,,2024,6
+O-1161,2024-06-10,C-765,Maria Garcia,South,Furniture,Headphones,1,1780.3199999999999,00:01:00.0000000,,Cash,Cancelled,,2024,6
+O-1162,2024-06-11,C-771,Maria Garcia,North,Furniture,T-Shirt,3,590.49000000000001,00:08:00.0000000,,Credit Card,Delivered,,2024,6
+O-1163,2024-06-12,C-385,Fatima Noor,West,Electronics,Headphones,9,395.62,00:27:00.0000000,,Credit Card,Delivered,,2024,6
+O-1164,2024-06-13,C-551,Ali Hassan,South,Furniture,Laptop,3,164.16,00:22:00.0000000,,Bank Transfer,Returned,,2024,6
+O-1165,2024-06-14,C-730,Ali Hassan,North,Groceries,Table,10,395.18000000000001,00:09:00.0000000,,Cash,Delivered,,2024,6
+O-1166,2024-06-15,C-181,Maria Garcia,East,Furniture,T-Shirt,2,1251.1500000000001,00:02:00.0000000,,Credit Card,Pending,,2024,6
+O-1167,2024-06-16,C-631,Ali Hassan,East,Groceries,Table,9,1293.52,00:25:00.0000000,,Credit Card,Returned,,2024,6
+O-1168,2024-06-17,C-626,Maria Garcia,North,Electronics,Sofa,5,1489.9100000000001,00:12:00.0000000,,Cash,Delivered,,2024,6
+O-1169,2024-06-18,C-916,Ali Hassan,North,Furniture,Rice Bag,5,642.24000000000001,00:02:00.0000000,,Credit Card,Returned,,2024,6
+O-1170,2024-06-19,C-624,John Doe,East,Electronics,T-Shirt,10,928.11000000000001,00:06:00.0000000,,PayPal,Returned,,2024,6
+O-1171,2024-06-20,C-838,Jane Smith,North,Electronics,Sofa,3,146.80000000000001,00:24:00.0000000,,Cash,Pending,,2024,6
+O-1172,2024-06-21,C-569,Jane Smith,West,Clothing,T-Shirt,8,1617.97,00:26:00.0000000,,Credit Card,Delivered,,2024,6
+O-1173,2024-06-22,C-385,Maria Garcia,East,Electronics,Laptop,3,1388.9400000000001,00:12:00.0000000,,Bank Transfer,Cancelled,,2024,6
+O-1174,2024-06-23,C-140,Maria Garcia,North,Furniture,Headphones,7,1125.71,00:19:00.0000000,,Credit Card,Cancelled,,2024,6
+O-1175,2024-06-24,C-540,Fatima Noor,North,Furniture,T-Shirt,3,27.5,00:19:00.0000000,,Cash,Returned,,2024,6
+O-1176,2024-06-25,C-975,Jane Smith,East,Groceries,Rice Bag,2,1370.6099999999999,00:19:00.0000000,,Bank Transfer,Returned,,2024,6
+O-1177,2024-06-26,C-868,Maria Garcia,East,Furniture,T-Shirt,9,1708.0799999999999,00:08:00.0000000,,Credit Card,Delivered,,2024,6
+O-1178,2024-06-27,C-727,Ali Hassan,North,Furniture,Table,8,1183.55,00:29:00.0000000,,Cash,Pending,,2024,6
+O-1179,2024-06-28,C-116,Ali Hassan,North,Other,T-Shirt,1,1555.3800000000001,00:01:00.0000000,,Bank Transfer,Pending,,2024,6
+O-1180,2024-06-29,C-673,John Doe,West,Electronics,Laptop,8,1786.46,00:01:00.0000000,,PayPal,Returned,,2024,6
+O-1181,2024-06-30,C-661,John Doe,West,Groceries,Laptop,3,1521.3,00:27:00.0000000,,Credit Card,Pending,,2024,6
+O-1183,2024-07-02,C-380,Jane Smith,South,Furniture,Laptop,2,172.56,00:00:00.0000000,,PayPal,Cancelled,,2024,7
+O-1185,2024-07-04,C-659,Maria Garcia,West,Furniture,Rice Bag,2,676.09000000000003,00:14:00.0000000,,Cash,Cancelled,,2024,7
+O-1186,2024-07-05,C-457,Maria Garcia,West,Electronics,Sofa,7,173.94,00:29:00.0000000,,PayPal,Cancelled,,2024,7
+O-1187,2024-07-06,C-399,John Doe,East,Electronics,Sofa,4,244.41999999999999,00:14:00.0000000,,Credit Card,Returned,,2024,7
+O-1188,2024-07-07,C-517,Fatima Noor,East,Other,Laptop,3,1135.3499999999999,00:27:00.0000000,,Credit Card,Delivered,,2024,7
+O-1189,2024-07-08,C-192,Ali Hassan,West,Furniture,Rice Bag,3,13.93,00:13:00.0000000,,Bank Transfer,Cancelled,,2024,7
+O-1190,2024-07-09,C-299,Ali Hassan,South,Electronics,Sofa,4,263.63999999999999,00:06:00.0000000,,PayPal,Delivered,,2024,7
+O-1191,2024-07-10,C-462,Maria Garcia,West,Clothing,T-Shirt,6,358.64999999999998,00:16:00.0000000,,Credit Card,Pending,,2024,7
+O-1192,2024-07-11,C-555,Fatima Noor,South,Furniture,Headphones,6,698.34000000000003,00:15:00.0000000,,Credit Card,Cancelled,,2024,7
+O-1193,2024-07-12,C-878,Jane Smith,West,Groceries,Sofa,6,1439.9000000000001,00:08:00.0000000,,PayPal,Pending,,2024,7
+O-1194,2024-07-13,C-765,Unknown,North,Other,Sofa,8,772.75,00:23:00.0000000,,Bank Transfer,Pending,,2024,7
+O-1195,2024-07-14,C-518,John Doe,West,Groceries,Laptop,8,1937.01,00:04:00.0000000,,Credit Card,Delivered,,2024,7
+O-1196,2024-07-15,C-864,Ali Hassan,North,Furniture,Table,3,758.21000000000004,00:04:00.0000000,,PayPal,Returned,,2024,7
+O-1197,2024-07-16,C-482,John Doe,South,Electronics,Sofa,7,619.34000000000003,00:11:00.0000000,,Cash,Pending,,2024,7
+O-1198,2024-07-17,C-199,John Doe,North,Electronics,T-Shirt,2,1730.3099999999999,00:08:00.0000000,,PayPal,Cancelled,,2024,7
+O-1199,2024-07-18,C-814,Fatima Noor,North,Clothing,Table,8,183.37,00:00:00.0000000,,PayPal,Delivered,,2024,7
+O-1200,2024-07-19,C-377,Jane Smith,North,Groceries,Headphones,5,1071.8800000000001,00:11:00.0000000,,Bank Transfer,Pending,,2024,7
+O-1201,2024-07-20,C-807,John Doe,West,Groceries,Rice Bag,5,22.420000000000002,00:15:00.0000000,,Bank Transfer,Pending,,2024,7
+O-1202,2024-07-21,C-788,Jane Smith,South,Electronics,Headphones,8,297.97000000000003,00:04:00.0000000,,Bank Transfer,Delivered,,2024,7
+O-1203,2024-07-22,C-329,Wei Chen,South,Groceries,Table,2,1092.55,00:29:00.0000000,,PayPal,Cancelled,,2024,7
+O-1204,2024-07-23,C-530,Jane Smith,East,Groceries,Sofa,4,133.44,00:23:00.0000000,,Cash,Pending,,2024,7
+O-1205,2024-07-24,C-242,Ali Hassan,East,Furniture,T-Shirt,4,1194.55,00:24:00.0000000,,PayPal,Cancelled,,2024,7
+O-1206,2024-07-25,C-550,Wei Chen,West,Clothing,Table,7,242.53,00:25:00.0000000,,Bank Transfer,Cancelled,,2024,7
+O-1207,2024-07-26,C-337,Jane Smith,North,Furniture,Headphones,7,1159.4400000000001,00:08:00.0000000,,Credit Card,Returned,,2024,7
+O-1209,2024-07-28,C-900,Maria Garcia,South,Clothing,Sofa,8,1961.52,00:18:00.0000000,,Bank Transfer,Pending,,2024,7
+O-1210,2024-07-29,C-391,Fatima Noor,East,Groceries,Headphones,7,780.60000000000002,00:27:00.0000000,,Bank Transfer,Delivered,,2024,7
+O-1211,2024-07-30,C-329,John Doe,West,Electronics,Headphones,2,544.03999999999996,00:02:00.0000000,,Bank Transfer,Returned,,2024,7
+O-1212,2024-07-31,C-270,Maria Garcia,North,Groceries,Table,8,1118.53,00:01:00.0000000,,Cash,Cancelled,,2024,7
+O-1213,2024-08-01,C-362,Fatima Noor,South,Furniture,Headphones,6,1209.9000000000001,00:28:00.0000000,,Credit Card,Delivered,,2024,8
+O-1214,2024-08-02,C-709,Maria Garcia,South,Electronics,Rice Bag,9,1214.98,00:03:00.0000000,,Bank Transfer,Delivered,,2024,8
+O-1215,2024-08-03,C-951,Fatima Noor,East,Electronics,Laptop,10,1867.3299999999999,00:14:00.0000000,,PayPal,Pending,,2024,8
+O-1216,2024-08-04,C-457,Jane Smith,East,Electronics,T-Shirt,9,1006.2,00:02:00.0000000,,Credit Card,Cancelled,,2024,8
+O-1217,2024-08-05,C-943,John Doe,East,Furniture,T-Shirt,5,1209.3099999999999,00:14:00.0000000,,Credit Card,Cancelled,,2024,8
+O-1219,2024-08-07,C-794,Wei Chen,West,Groceries,Sofa,1,100.26000000000001,00:12:00.0000000,,Bank Transfer,Pending,,2024,8
+O-1220,2024-08-08,C-304,Wei Chen,West,Groceries,T-Shirt,4,192.56,00:18:00.0000000,,Cash,Pending,,2024,8
+O-1221,2024-08-09,C-718,Ali Hassan,West,Clothing,Laptop,10,384.12,00:23:00.0000000,,PayPal,Delivered,,2024,8
+O-1222,2024-08-10,C-871,Jane Smith,East,Furniture,Laptop,7,1594.4000000000001,00:12:00.0000000,,Credit Card,Delivered,,2024,8
+O-1223,2024-08-11,C-413,Ali Hassan,North,Electronics,T-Shirt,7,1202.97,00:08:00.0000000,,PayPal,Returned,,2024,8
+O-1224,2024-08-12,C-697,John Doe,North,Furniture,Rice Bag,2,1659.6099999999999,00:29:00.0000000,,Bank Transfer,Delivered,,2024,8
+O-1225,2024-08-13,C-712,Wei Chen,West,Electronics,Sofa,6,1542.9300000000001,00:14:00.0000000,,Bank Transfer,Returned,,2024,8
+O-1226,2024-08-14,C-267,John Doe,East,Furniture,Laptop,9,1546.5599999999999,00:12:00.0000000,,Bank Transfer,Returned,,2024,8
+O-1227,2024-08-15,C-463,Maria Garcia,South,Furniture,Rice Bag,2,1682.79,00:21:00.0000000,,Cash,Cancelled,,2024,8
+O-1228,2024-08-16,C-866,Jane Smith,East,Furniture,T-Shirt,5,652.48000000000002,00:05:00.0000000,,Bank Transfer,Returned,,2024,8
+O-1229,2024-08-17,C-538,Ali Hassan,West,Clothing,Headphones,1,543.73000000000002,00:16:00.0000000,,Cash,Cancelled,,2024,8
+O-1230,2024-08-18,C-424,John Doe,West,Groceries,Rice Bag,6,1205.6099999999999,00:25:00.0000000,,Cash,Returned,,2024,8
+O-1231,2024-08-19,C-731,Wei Chen,West,Electronics,Rice Bag,9,501.87,00:12:00.0000000,,Cash,Delivered,,2024,8
+O-1232,2024-08-20,C-596,Jane Smith,West,Furniture,Laptop,8,117.28,00:14:00.0000000,,Credit Card,Pending,,2024,8
+O-1233,2024-08-21,C-497,Wei Chen,North,Groceries,Headphones,2,1502.1199999999999,00:06:00.0000000,,PayPal,Returned,,2024,8
+O-1234,2024-08-22,C-201,Wei Chen,East,Furniture,Sofa,6,363.32999999999998,00:29:00.0000000,,PayPal,Cancelled,,2024,8
+O-1235,2024-08-23,C-212,John Doe,North,Clothing,Laptop,4,420.72000000000003,00:22:00.0000000,,PayPal,Returned,,2024,8
+O-1236,2024-08-24,C-275,Fatima Noor,East,Furniture,Sofa,7,1996.72,00:08:00.0000000,,PayPal,Pending,,2024,8
+O-1237,2024-08-25,C-134,Fatima Noor,East,Other,Headphones,2,222.41999999999999,00:25:00.0000000,,Bank Transfer,Returned,,2024,8
+O-1239,2024-08-27,C-169,Wei Chen,West,Electronics,Laptop,8,1208.04,00:16:00.0000000,,Cash,Delivered,,2024,8
+O-1240,2024-08-28,C-857,Ali Hassan,South,Groceries,Sofa,8,157.44999999999999,00:17:00.0000000,,PayPal,Cancelled,,2024,8
+O-1241,2024-08-29,C-868,Maria Garcia,West,Furniture,Laptop,9,459.00999999999999,00:03:00.0000000,,Bank Transfer,Pending,,2024,8
+O-1242,2024-08-30,C-493,Maria Garcia,West,Furniture,Sofa,5,1548.1099999999999,00:25:00.0000000,,Credit Card,Cancelled,,2024,8
+O-1243,2024-08-31,C-615,Fatima Noor,East,Furniture,Sofa,3,1478.9000000000001,00:19:00.0000000,,Credit Card,Cancelled,,2024,8
+O-1244,2024-09-01,C-383,Ali Hassan,South,Furniture,Headphones,2,570.64999999999998,00:03:00.0000000,,Credit Card,Delivered,,2024,9
+O-1245,2024-09-02,C-320,John Doe,South,Furniture,Headphones,9,1409.74,00:06:00.0000000,,Credit Card,Pending,,2024,9
+O-1246,2024-09-03,C-537,Jane Smith,North,Clothing,Rice Bag,1,51.840000000000003,00:01:00.0000000,,PayPal,Cancelled,,2024,9
+O-1248,2024-09-05,C-574,John Doe,East,Furniture,Headphones,1,192.72999999999999,00:02:00.0000000,,Cash,Returned,,2024,9
+O-1249,2024-09-06,C-715,Fatima Noor,North,Groceries,Sofa,3,1779.0699999999999,00:17:00.0000000,,Credit Card,Delivered,,2024,9
+O-1250,2024-09-07,C-886,Jane Smith,North,Electronics,Sofa,7,354.25999999999999,00:03:00.0000000,,Credit Card,Returned,,2024,9
+O-1251,2024-09-08,C-950,John Doe,South,Electronics,Table,8,312.92000000000002,00:02:00.0000000,,Bank Transfer,Cancelled,,2024,9
+O-1252,2024-09-09,C-505,Maria Garcia,West,Electronics,T-Shirt,5,617.55999999999995,00:15:00.0000000,,Credit Card,Pending,,2024,9
+O-1253,2024-09-10,C-252,Fatima Noor,South,Electronics,Table,6,1577.6500000000001,00:11:00.0000000,,Bank Transfer,Delivered,,2024,9
+O-1254,2024-09-11,C-468,Maria Garcia,East,Clothing,Laptop,4,1648.9000000000001,00:24:00.0000000,,Credit Card,Returned,,2024,9
+O-1255,2024-09-12,C-536,Jane Smith,East,Groceries,Laptop,7,897.42999999999995,00:27:00.0000000,,Cash,Delivered,,2024,9
+O-1256,2024-09-13,C-839,John Doe,West,Furniture,Rice Bag,10,1240.27,00:23:00.0000000,,Bank Transfer,Returned,,2024,9
+O-1258,2024-09-15,C-274,Ali Hassan,West,Groceries,Headphones,2,1457.1900000000001,00:03:00.0000000,,Bank Transfer,Cancelled,,2024,9
+O-1260,2024-09-17,C-781,Maria Garcia,North,Electronics,Laptop,8,1578.3900000000001,00:24:00.0000000,,Bank Transfer,Returned,,2024,9
+O-1261,2024-09-18,C-235,Fatima Noor,North,Furniture,Sofa,2,1479.3699999999999,00:28:00.0000000,,PayPal,Delivered,,2024,9
+O-1262,2024-09-19,C-452,Fatima Noor,South,Furniture,Headphones,4,414.56999999999999,00:00:00.0000000,,PayPal,Delivered,,2024,9
+O-1263,2024-09-20,C-222,Ali Hassan,South,Furniture,T-Shirt,7,406.13,00:08:00.0000000,,Bank Transfer,Pending,,2024,9
+O-1264,2024-09-21,C-633,Maria Garcia,South,Electronics,Laptop,7,1797.6199999999999,00:19:00.0000000,,Bank Transfer,Returned,,2024,9
+O-1265,2024-09-22,C-494,Ali Hassan,West,Clothing,Rice Bag,2,1474.8,00:11:00.0000000,,Cash,Delivered,,2024,9
+O-1266,2024-09-23,C-805,Maria Garcia,West,Clothing,Headphones,4,753.63,00:02:00.0000000,,PayPal,Returned,,2024,9
+O-1268,2024-09-25,C-984,Ali Hassan,West,Electronics,Headphones,9,1227.97,00:26:00.0000000,,Cash,Delivered,,2024,9
+O-1269,2024-09-26,C-189,Ali Hassan,South,Furniture,T-Shirt,4,50.670000000000002,00:29:00.0000000,,PayPal,Delivered,,2024,9
+O-1270,2024-09-27,C-910,Maria Garcia,West,Groceries,Laptop,4,1975.9300000000001,00:27:00.0000000,,Bank Transfer,Returned,,2024,9
+O-1271,2024-09-28,C-731,Fatima Noor,South,Clothing,Headphones,2,1395.3099999999999,00:03:00.0000000,,Bank Transfer,Returned,,2024,9
+O-1272,2024-09-29,C-726,Fatima Noor,West,Electronics,Headphones,10,1430.0899999999999,00:09:00.0000000,,Bank Transfer,Delivered,,2024,9
+O-1274,2024-10-01,C-979,Fatima Noor,East,Electronics,Table,2,814.80999999999995,00:03:00.0000000,,PayPal,Cancelled,,2024,10
+O-1275,2024-10-02,C-786,John Doe,East,Furniture,Headphones,7,1105.23,00:09:00.0000000,,Bank Transfer,Pending,,2024,10
+O-1276,2024-10-03,C-655,Maria Garcia,North,Furniture,Table,5,1220.3699999999999,00:15:00.0000000,,Bank Transfer,Returned,,2024,10
+O-1277,2024-10-04,C-716,Wei Chen,West,Groceries,T-Shirt,2,1637.28,00:04:00.0000000,,Cash,Delivered,,2024,10
+O-1278,2024-10-05,C-286,Wei Chen,South,Furniture,Headphones,7,1726.46,00:04:00.0000000,,Cash,Delivered,,2024,10
+O-1279,2024-10-06,C-119,John Doe,North,Furniture,Rice Bag,3,494.35000000000002,00:23:00.0000000,,PayPal,Cancelled,,2024,10
+O-1280,2024-10-07,C-157,Unknown,North,Clothing,Sofa,5,1848.8499999999999,00:06:00.0000000,,PayPal,Cancelled,,2024,10
+O-1281,2024-10-08,C-302,Jane Smith,South,Furniture,Headphones,1,1963.77,00:00:00.0000000,,Bank Transfer,Pending,,2024,10
+O-1282,2024-10-09,C-821,John Doe,East,Electronics,Table,4,1116.8499999999999,00:19:00.0000000,,Bank Transfer,Returned,,2024,10
+O-1283,2024-10-10,C-342,Fatima Noor,East,Furniture,Laptop,8,896.52999999999997,00:03:00.0000000,,Credit Card,Delivered,,2024,10
+O-1284,2024-10-11,C-138,Jane Smith,North,Furniture,Laptop,8,1362.6700000000001,00:00:00.0000000,,Bank Transfer,Pending,,2024,10
+O-1285,2024-10-12,C-509,Maria Garcia,North,Groceries,Table,1,1999.6300000000001,00:17:00.0000000,,Credit Card,Pending,,2024,10
+O-1286,2024-10-13,C-552,Maria Garcia,South,Electronics,T-Shirt,1,968.40999999999997,00:26:00.0000000,,Credit Card,Returned,,2024,10
+O-1287,2024-10-14,C-301,Fatima Noor,North,Groceries,Rice Bag,8,1732.3399999999999,00:25:00.0000000,,PayPal,Returned,,2024,10
+O-1288,2024-10-15,C-288,Fatima Noor,North,Furniture,Table,5,1794.8599999999999,00:07:00.0000000,,Cash,Returned,,2024,10
+O-1289,2024-10-16,C-874,Jane Smith,East,Electronics,Headphones,6,744.20000000000005,00:02:00.0000000,,Cash,Delivered,,2024,10
+O-1290,2024-10-17,C-624,Wei Chen,East,Electronics,Sofa,5,1025.1700000000001,00:22:00.0000000,,PayPal,Returned,,2024,10
+O-1291,2024-10-18,C-516,Fatima Noor,East,Furniture,Laptop,7,252.16,00:13:00.0000000,,Cash,Cancelled,,2024,10
+O-1292,2024-10-19,C-647,Ali Hassan,East,Groceries,Laptop,9,238.37,00:16:00.0000000,,Credit Card,Delivered,,2024,10
+O-1293,2024-10-20,C-632,Wei Chen,West,Clothing,T-Shirt,8,456.88,00:00:00.0000000,,Credit Card,Delivered,,2024,10
+O-1294,2024-10-21,C-668,Ali Hassan,West,Furniture,Laptop,7,1496.6199999999999,00:04:00.0000000,,PayPal,Returned,,2024,10
+O-1295,2024-10-22,C-850,Wei Chen,North,Electronics,Headphones,8,979.63,00:02:00.0000000,,Bank Transfer,Returned,,2024,10
+O-1296,2024-10-23,C-547,Wei Chen,East,Other,Sofa,10,1227.21,00:09:00.0000000,,PayPal,Delivered,,2024,10
+O-1297,2024-10-24,C-544,Wei Chen,North,Electronics,Laptop,4,645.87,00:26:00.0000000,,Cash,Delivered,,2024,10
+O-1298,2024-10-25,C-661,Wei Chen,South,Electronics,Laptop,9,765.28999999999996,00:24:00.0000000,,Bank Transfer,Returned,,2024,10
+O-1299,2024-10-26,C-550,Wei Chen,North,Electronics,Laptop,4,1177.04,00:12:00.0000000,,Bank Transfer,Pending,,2024,10
+O-1300,2024-10-27,C-782,Fatima Noor,East,Clothing,Sofa,10,45.68,00:17:00.0000000,,Credit Card,Pending,,2024,10
+O-1301,2024-10-28,C-622,Jane Smith,West,Furniture,Laptop,7,1948.6700000000001,00:05:00.0000000,,Credit Card,Returned,,2024,10
+O-1302,2024-10-29,C-586,John Doe,North,Groceries,Table,7,1762.26,00:15:00.0000000,,PayPal,Returned,,2024,10
+O-1303,2024-10-30,C-906,John Doe,East,Furniture,Headphones,1,1119.01,00:04:00.0000000,,Cash,Returned,,2024,10
+O-1304,2024-10-31,C-195,Jane Smith,East,Furniture,Laptop,5,494.69,00:21:00.0000000,,PayPal,Pending,,2024,10
+O-1305,2024-11-01,C-958,Maria Garcia,South,Groceries,Laptop,10,1967.1400000000001,00:18:00.0000000,,Bank Transfer,Pending,,2024,11
+O-1306,2024-11-02,C-690,Fatima Noor,North,Other,Laptop,7,683.40999999999997,00:06:00.0000000,,Cash,Pending,,2024,11
+O-1307,2024-11-03,C-245,Ali Hassan,South,Electronics,T-Shirt,1,1546.01,00:03:00.0000000,,Cash,Pending,,2024,11
+O-1308,2024-11-04,C-455,Jane Smith,East,Electronics,Laptop,2,1010.54,00:04:00.0000000,,PayPal,Cancelled,,2024,11
+O-1309,2024-11-05,C-987,Fatima Noor,West,Furniture,Laptop,5,1205.78,00:28:00.0000000,,Bank Transfer,Delivered,,2024,11
+O-1310,2024-11-06,C-624,Ali Hassan,West,Clothing,Headphones,9,255.18000000000001,00:12:00.0000000,,Cash,Returned,,2024,11
+O-1311,2024-11-07,C-928,Fatima Noor,East,Groceries,Rice Bag,10,1805.6300000000001,00:04:00.0000000,,Credit Card,Pending,,2024,11
+O-1312,2024-11-08,C-475,Wei Chen,South,Other,Table,7,1470.98,00:16:00.0000000,,Cash,Returned,,2024,11
+O-1313,2024-11-09,C-603,John Doe,West,Furniture,Sofa,3,1944.0,00:11:00.0000000,,PayPal,Cancelled,,2024,11
+O-1314,2024-11-10,C-836,Ali Hassan,East,Furniture,Table,9,1372.5699999999999,00:05:00.0000000,,Cash,Pending,,2024,11
+O-1315,2024-11-11,C-240,Jane Smith,South,Furniture,Sofa,2,1185.1800000000001,00:26:00.0000000,,Cash,Cancelled,,2024,11
+O-1316,2024-11-12,C-410,Unknown,North,Clothing,Table,8,1469.72,00:04:00.0000000,,Cash,Cancelled,,2024,11
+O-1317,2024-11-13,C-904,Wei Chen,West,Groceries,Laptop,3,817.0,00:19:00.0000000,,PayPal,Returned,,2024,11
+O-1318,2024-11-14,C-690,Jane Smith,West,Clothing,T-Shirt,8,844.25999999999999,00:07:00.0000000,,Cash,Returned,,2024,11
+O-1319,2024-11-15,C-122,Fatima Noor,West,Other,Laptop,7,1440.04,00:27:00.0000000,,Credit Card,Returned,,2024,11
+O-1320,2024-11-16,C-197,John Doe,North,Electronics,Headphones,3,1839.72,00:04:00.0000000,,Cash,Delivered,,2024,11
+O-1321,2024-11-17,C-421,Ali Hassan,South,Furniture,Headphones,5,79.140000000000001,00:19:00.0000000,,Cash,Delivered,,2024,11
+O-1322,2024-11-18,C-226,John Doe,South,Furniture,Headphones,3,101.5,00:03:00.0000000,,Credit Card,Pending,,2024,11
+O-1323,2024-11-19,C-423,John Doe,East,Groceries,T-Shirt,2,353.37,00:02:00.0000000,,PayPal,Cancelled,,2024,11
+O-1324,2024-11-20,C-966,Maria Garcia,South,Furniture,T-Shirt,5,780.50999999999999,00:18:00.0000000,,Cash,Cancelled,,2024,11
+O-1325,2024-11-21,C-229,Wei Chen,North,Electronics,Sofa,1,1004.09,00:18:00.0000000,,PayPal,Pending,,2024,11
+O-1326,2024-11-22,C-628,Jane Smith,East,Furniture,Sofa,6,90.049999999999997,00:23:00.0000000,,PayPal,Cancelled,,2024,11
+O-1327,2024-11-23,C-626,Fatima Noor,South,Furniture,Headphones,3,510.56,00:01:00.0000000,,Credit Card,Delivered,,2024,11
+O-1328,2024-11-24,C-351,Wei Chen,East,Furniture,Rice Bag,8,608.88,00:13:00.0000000,,Bank Transfer,Delivered,,2024,11
+O-1329,2024-11-25,C-943,Maria Garcia,East,Furniture,Sofa,3,1406.6600000000001,00:03:00.0000000,,Credit Card,Pending,,2024,11
+O-1330,2024-11-26,C-897,John Doe,South,Furniture,Sofa,9,482.00999999999999,00:03:00.0000000,,PayPal,Pending,,2024,11
+O-1331,2024-11-27,C-277,Fatima Noor,West,Clothing,Laptop,1,811.23000000000002,00:17:00.0000000,,PayPal,Pending,,2024,11
+O-1332,2024-11-28,C-539,Wei Chen,West,Furniture,Rice Bag,1,613.75999999999999,00:27:00.0000000,,PayPal,Returned,,2024,11
+O-1333,2024-11-29,C-322,John Doe,East,Groceries,T-Shirt,5,426.36000000000001,00:16:00.0000000,,PayPal,Returned,,2024,11
+O-1334,2024-11-30,C-699,Ali Hassan,West,Electronics,Rice Bag,10,1608.46,00:28:00.0000000,,PayPal,Cancelled,,2024,11
+O-1335,2024-12-01,C-286,Ali Hassan,North,Groceries,Headphones,4,1509.97,00:00:00.0000000,,Credit Card,Delivered,,2024,12
+O-1336,2024-12-02,C-605,Maria Garcia,West,Groceries,Laptop,1,1293.8699999999999,00:24:00.0000000,,PayPal,Returned,,2024,12
+O-1337,2024-12-03,C-101,Jane Smith,North,Groceries,Table,5,988.77999999999997,00:28:00.0000000,,Bank Transfer,Returned,,2024,12
+O-1338,2024-12-04,C-696,Jane Smith,West,Electronics,Rice Bag,6,1254.3199999999999,00:18:00.0000000,,Credit Card,Pending,,2024,12
+O-1339,2024-12-05,C-453,Maria Garcia,East,Groceries,Table,4,1976.45,00:28:00.0000000,,Cash,Pending,,2024,12
+O-1340,2024-12-06,C-262,Ali Hassan,East,Furniture,Rice Bag,6,277.16000000000003,00:11:00.0000000,,Bank Transfer,Pending,,2024,12
+O-1341,2024-12-07,C-760,Jane Smith,South,Electronics,T-Shirt,10,129.74000000000001,00:12:00.0000000,,Bank Transfer,Delivered,,2024,12
+O-1342,2024-12-08,C-180,Jane Smith,North,Furniture,Table,10,317.00999999999999,00:18:00.0000000,,PayPal,Pending,,2024,12
+O-1343,2024-12-09,C-166,Wei Chen,South,Electronics,Sofa,5,1752.22,00:16:00.0000000,,Bank Transfer,Pending,,2024,12
+O-1344,2024-12-10,C-613,Wei Chen,East,Electronics,T-Shirt,3,177.0,00:01:00.0000000,,Bank Transfer,Cancelled,,2024,12
+O-1345,2024-12-11,C-164,Ali Hassan,South,Other,T-Shirt,9,1451.6400000000001,00:25:00.0000000,,Credit Card,Cancelled,,2024,12
+O-1346,2024-12-12,C-895,Jane Smith,South,Electronics,Laptop,2,753.45000000000005,00:19:00.0000000,,Bank Transfer,Delivered,,2024,12
+O-1347,2024-12-13,C-105,John Doe,West,Electronics,Table,5,1810.1800000000001,00:03:00.0000000,,PayPal,Returned,,2024,12
+O-1348,2024-12-14,C-935,Fatima Noor,East,Electronics,Sofa,4,1637.9100000000001,00:29:00.0000000,,PayPal,Cancelled,,2024,12
+O-1349,2024-12-15,C-322,John Doe,North,Furniture,Rice Bag,1,565.54999999999995,00:15:00.0000000,,Credit Card,Cancelled,,2024,12
+O-1350,2024-12-16,C-284,Ali Hassan,West,Furniture,Laptop,2,1070.8099999999999,00:11:00.0000000,,Credit Card,Delivered,,2024,12
+O-1351,2024-12-17,C-272,Maria Garcia,West,Furniture,Laptop,1,506.27999999999997,00:02:00.0000000,,Cash,Returned,,2024,12
+O-1352,2024-12-18,C-694,Fatima Noor,North,Electronics,Rice Bag,1,1685.5,00:12:00.0000000,,Bank Transfer,Pending,,2024,12
+O-1353,2024-12-19,C-118,John Doe,North,Clothing,Table,3,126.63,00:09:00.0000000,,Bank Transfer,Delivered,,2024,12
+O-1354,2024-12-20,C-284,Wei Chen,West,Electronics,Table,4,646.61000000000001,00:21:00.0000000,,Cash,Cancelled,,2024,12
+O-1355,2024-12-21,C-205,Wei Chen,East,Other,Sofa,9,1668.3199999999999,00:13:00.0000000,,Credit Card,Returned,,2024,12
+O-1356,2024-12-22,C-862,Unknown,North,Electronics,Headphones,1,608.09000000000003,00:01:00.0000000,,Credit Card,Returned,,2024,12
+O-1357,2024-12-23,C-858,Wei Chen,West,Clothing,Rice Bag,2,307.42000000000002,00:19:00.0000000,,Credit Card,Returned,,2024,12
+O-1358,2024-12-24,C-993,Maria Garcia,North,Electronics,Rice Bag,10,1239.55,00:18:00.0000000,,PayPal,Returned,,2024,12
+O-1359,2024-12-25,C-961,Ali Hassan,West,Groceries,Sofa,9,1881.4300000000001,00:23:00.0000000,,Cash,Pending,,2024,12
+O-1360,2024-12-26,C-456,Fatima Noor,East,Electronics,Headphones,8,1367.28,00:18:00.0000000,,Bank Transfer,Cancelled,,2024,12
+O-1361,2024-12-27,C-847,Unknown,North,Furniture,T-Shirt,6,1527.4100000000001,00:28:00.0000000,,PayPal,Pending,,2024,12
+O-1362,2024-12-28,C-820,Wei Chen,South,Electronics,Sofa,2,1830.26,00:23:00.0000000,,Bank Transfer,Cancelled,,2024,12
+O-1363,2024-12-29,C-590,John Doe,South,Furniture,Sofa,5,1573.3299999999999,00:26:00.0000000,,Credit Card,Returned,,2024,12
+O-1364,2024-12-30,C-401,Maria Garcia,South,Electronics,Rice Bag,2,712.59000000000003,00:28:00.0000000,,Bank Transfer,Delivered,,2024,12
+O-1365,2024-12-31,C-138,Wei Chen,South,Groceries,T-Shirt,4,1241.22,00:26:00.0000000,,Cash,Pending,,2024,12
+O-1366,2025-01-01,C-434,John Doe,North,Electronics,Headphones,7,1474.46,00:23:00.0000000,,Bank Transfer,Delivered,,2025,1
+O-1367,2025-01-02,C-882,Ali Hassan,East,Furniture,Table,7,640.82000000000005,00:29:00.0000000,,PayPal,Returned,,2025,1
+O-1368,2025-01-03,C-683,Wei Chen,North,Furniture,Laptop,2,1660.1300000000001,00:06:00.0000000,,Bank Transfer,Cancelled,,2025,1
+O-1369,2025-01-04,C-529,Fatima Noor,West,Furniture,Table,1,1182.25,00:22:00.0000000,,PayPal,Pending,,2025,1
+O-1370,2025-01-05,C-538,Fatima Noor,South,Electronics,Sofa,5,447.55000000000001,00:21:00.0000000,,Bank Transfer,Delivered,,2025,1
+O-1371,2025-01-06,C-385,Unknown,North,Furniture,Sofa,9,1881.55,00:23:00.0000000,,Credit Card,Returned,,2025,1
+O-1372,2025-01-07,C-982,Fatima Noor,South,Furniture,Rice Bag,4,1401.1700000000001,00:17:00.0000000,,Bank Transfer,Delivered,,2025,1
+O-1373,2025-01-08,C-571,Maria Garcia,West,Groceries,Headphones,7,874.26999999999998,00:21:00.0000000,,Bank Transfer,Cancelled,,2025,1
+O-1374,2025-01-09,C-830,Unknown,North,Clothing,Table,7,1876.1900000000001,00:17:00.0000000,,Bank Transfer,Pending,,2025,1
+O-1375,2025-01-10,C-873,John Doe,South,Electronics,Laptop,2,1704.0,00:17:00.0000000,,Bank Transfer,Returned,,2025,1
+O-1376,2025-01-11,C-165,John Doe,West,Electronics,Laptop,6,1481.28,00:15:00.0000000,,Cash,Returned,,2025,1
+O-1377,2025-01-12,C-952,Unknown,West,Clothing,Laptop,3,1170.8599999999999,00:17:00.0000000,,Cash,Delivered,,2025,1
+O-1378,2025-01-13,C-580,Ali Hassan,East,Furniture,Headphones,4,1833.0799999999999,00:16:00.0000000,,PayPal,Delivered,,2025,1
+O-1379,2025-01-14,C-421,Ali Hassan,East,Furniture,T-Shirt,1,260.74000000000001,00:01:00.0000000,,Bank Transfer,Pending,,2025,1
+O-1380,2025-01-15,C-650,Wei Chen,South,Clothing,Headphones,1,99.859999999999999,00:25:00.0000000,,PayPal,Cancelled,,2025,1
+O-1381,2025-01-16,C-861,Maria Garcia,South,Electronics,Laptop,3,275.81,00:13:00.0000000,,Cash,Returned,,2025,1
+O-1382,2025-01-17,C-842,Fatima Noor,North,Groceries,Laptop,1,962.80999999999995,00:02:00.0000000,,PayPal,Pending,,2025,1
+O-1383,2025-01-18,C-936,Jane Smith,North,Electronics,T-Shirt,8,1342.9300000000001,00:06:00.0000000,,PayPal,Delivered,,2025,1
+O-1384,2025-01-19,C-321,Wei Chen,South,Clothing,Headphones,7,783.09000000000003,00:08:00.0000000,,PayPal,Cancelled,,2025,1
+O-1385,2025-01-20,C-268,Wei Chen,North,Clothing,T-Shirt,10,1309.95,00:07:00.0000000,,PayPal,Pending,,2025,1
+O-1386,2025-01-21,C-887,Ali Hassan,South,Electronics,Laptop,4,162.28,00:08:00.0000000,,Bank Transfer,Pending,,2025,1
+O-1387,2025-01-22,C-425,Maria Garcia,North,Electronics,Headphones,3,711.88,00:06:00.0000000,,Credit Card,Pending,,2025,1
+O-1388,2025-01-23,C-634,Unknown,West,Groceries,Laptop,6,86.079999999999998,00:02:00.0000000,,Bank Transfer,Cancelled,,2025,1
+O-1389,2025-01-24,C-144,Fatima Noor,West,Electronics,Headphones,9,360.08999999999997,00:15:00.0000000,,Cash,Cancelled,,2025,1
+O-1390,2025-01-25,C-233,Maria Garcia,West,Electronics,Rice Bag,5,1018.7,00:07:00.0000000,,Credit Card,Cancelled,,2025,1
+O-1391,2025-01-26,C-523,Wei Chen,West,Furniture,Laptop,8,650.44000000000005,00:22:00.0000000,,Cash,Cancelled,,2025,1
+O-1392,2025-01-27,C-678,Ali Hassan,South,Furniture,Laptop,6,765.84000000000003,00:13:00.0000000,,PayPal,Delivered,,2025,1
+O-1393,2025-01-28,C-827,Wei Chen,North,Clothing,T-Shirt,2,1222.3900000000001,00:08:00.0000000,,Credit Card,Returned,,2025,1
+O-1394,2025-01-29,C-641,Unknown,East,Other,Rice Bag,8,1392.6700000000001,00:03:00.0000000,,Credit Card,Returned,,2025,1
+O-1395,2025-01-30,C-908,Maria Garcia,North,Electronics,Table,5,317.06,00:26:00.0000000,,Cash,Returned,,2025,1
+O-1396,2025-01-31,C-268,John Doe,West,Furniture,Sofa,3,1907.52,00:17:00.0000000,,PayPal,Cancelled,,2025,1
+O-1397,2025-02-01,C-671,Wei Chen,East,Electronics,Headphones,9,1528.3599999999999,00:02:00.0000000,,PayPal,Returned,,2025,2
+O-1398,2025-02-02,C-945,Ali Hassan,South,Groceries,T-Shirt,7,823.23000000000002,00:05:00.0000000,,Cash,Cancelled,,2025,2
+O-1399,2025-02-03,C-618,Jane Smith,North,Electronics,Sofa,4,1935.29,00:22:00.0000000,,Credit Card,Cancelled,,2025,2
+O-1400,2025-02-04,C-931,Maria Garcia,West,Furniture,Table,7,1090.0599999999999,00:22:00.0000000,,Credit Card,Pending,,2025,2
+O-1401,2025-02-05,C-920,Jane Smith,East,Clothing,T-Shirt,7,233.58000000000001,00:07:00.0000000,,PayPal,Cancelled,,2025,2
+O-1402,2025-02-06,C-909,Jane Smith,South,Groceries,Headphones,6,1560.4400000000001,00:28:00.0000000,,Cash,Returned,,2025,2
+O-1403,2025-02-07,C-688,Wei Chen,South,Electronics,Sofa,3,279.07999999999998,00:06:00.0000000,,Bank Transfer,Pending,,2025,2
+O-1404,2025-02-08,C-263,Jane Smith,North,Clothing,Table,10,526.71000000000004,00:13:00.0000000,,Credit Card,Pending,,2025,2
+O-1405,2025-02-09,C-932,John Doe,North,Clothing,Table,8,205.75999999999999,00:15:00.0000000,,Bank Transfer,Pending,,2025,2
+O-1406,2025-02-10,C-304,Unknown,South,Clothing,T-Shirt,5,903.87,00:12:00.0000000,,Cash,Delivered,,2025,2
+O-1407,2025-02-11,C-591,Wei Chen,West,Groceries,Laptop,2,1628.73,00:19:00.0000000,,Cash,Delivered,,2025,2
+O-1408,2025-02-12,C-196,Unknown,South,Groceries,Laptop,7,1048.53,00:04:00.0000000,,Cash,Returned,,2025,2
+O-1409,2025-02-13,C-193,Jane Smith,North,Groceries,Sofa,9,579.99000000000001,00:15:00.0000000,,Bank Transfer,Delivered,,2025,2
+O-1410,2025-02-14,C-443,Wei Chen,North,Electronics,Laptop,8,1405.96,00:28:00.0000000,,Bank Transfer,Pending,,2025,2
+O-1411,2025-02-15,C-673,John Doe,South,Clothing,Sofa,4,898.75,00:01:00.0000000,,PayPal,Delivered,,2025,2
+O-1412,2025-02-16,C-908,Maria Garcia,West,Furniture,Headphones,1,882.57000000000005,00:22:00.0000000,,Credit Card,Pending,,2025,2
+O-1413,2025-02-17,C-450,Jane Smith,North,Furniture,T-Shirt,7,234.03,00:22:00.0000000,,PayPal,Pending,,2025,2
+O-1414,2025-02-18,C-529,Ali Hassan,East,Electronics,Headphones,8,909.29999999999995,00:16:00.0000000,,Bank Transfer,Pending,,2025,2
+O-1415,2025-02-19,C-808,Jane Smith,East,Clothing,Sofa,5,162.69,00:07:00.0000000,,Credit Card,Cancelled,,2025,2
+O-1416,2025-02-20,C-740,Ali Hassan,South,Electronics,T-Shirt,10,305.79000000000002,00:25:00.0000000,,Bank Transfer,Returned,,2025,2
+O-1417,2025-02-21,C-158,Fatima Noor,South,Clothing,Headphones,5,1369.1400000000001,00:02:00.0000000,,Cash,Returned,,2025,2
+O-1418,2025-02-22,C-690,Jane Smith,East,Electronics,Rice Bag,6,825.55999999999995,00:23:00.0000000,,Cash,Delivered,,2025,2
+O-1419,2025-02-23,C-120,John Doe,East,Electronics,T-Shirt,8,930.83000000000004,00:28:00.0000000,,Cash,Delivered,,2025,2
+O-1420,2025-02-24,C-507,Jane Smith,West,Electronics,Sofa,8,1233.77,00:01:00.0000000,,Bank Transfer,Pending,,2025,2
+O-1422,2025-02-26,C-411,John Doe,East,Clothing,Laptop,7,518.20000000000005,00:13:00.0000000,,Bank Transfer,Cancelled,,2025,2
+O-1423,2025-02-27,C-758,Jane Smith,East,Clothing,Table,3,1826.5799999999999,00:15:00.0000000,,Credit Card,Delivered,,2025,2
+O-1424,2025-02-28,C-973,Ali Hassan,South,Furniture,Sofa,7,1966.75,00:29:00.0000000,,Cash,Cancelled,,2025,2
+O-1425,2025-03-01,C-775,Wei Chen,West,Clothing,Sofa,2,1848.99,00:16:00.0000000,,Bank Transfer,Pending,,2025,3
+O-1426,2025-03-02,C-437,John Doe,South,Furniture,Rice Bag,3,631.21000000000004,00:09:00.0000000,,Credit Card,Returned,,2025,3
+O-1427,2025-03-03,C-979,Wei Chen,North,Clothing,Laptop,9,1473.0799999999999,00:26:00.0000000,,Credit Card,Pending,,2025,3
+O-1428,2025-03-04,C-184,Jane Smith,North,Groceries,Sofa,7,152.97999999999999,00:01:00.0000000,,PayPal,Cancelled,,2025,3
+O-1429,2025-03-05,C-207,Ali Hassan,East,Electronics,Sofa,8,1662.76,00:23:00.0000000,,PayPal,Pending,,2025,3
+O-1430,2025-03-06,C-304,Maria Garcia,North,Other,Rice Bag,1,147.72999999999999,00:11:00.0000000,,Bank Transfer,Delivered,,2025,3
+O-1431,2025-03-07,C-983,Ali Hassan,South,Electronics,Laptop,9,1817.7,00:17:00.0000000,,Credit Card,Pending,,2025,3
+O-1432,2025-03-08,C-721,Wei Chen,West,Clothing,Laptop,10,102.78,00:13:00.0000000,,Credit Card,Cancelled,,2025,3
+O-1433,2025-03-09,C-145,Wei Chen,North,Clothing,Rice Bag,9,1496.49,00:23:00.0000000,,Credit Card,Pending,,2025,3
+O-1434,2025-03-10,C-302,Maria Garcia,North,Electronics,Sofa,8,632.23000000000002,00:02:00.0000000,,Bank Transfer,Pending,,2025,3
+O-1436,2025-03-12,C-345,Maria Garcia,East,Electronics,Rice Bag,3,170.44999999999999,00:03:00.0000000,,Cash,Returned,,2025,3
+O-1437,2025-03-13,C-601,Maria Garcia,West,Groceries,Laptop,9,1066.1600000000001,00:19:00.0000000,,Cash,Pending,,2025,3
+O-1438,2025-03-14,C-971,Fatima Noor,West,Furniture,Laptop,2,1842.3399999999999,00:01:00.0000000,,Cash,Pending,,2025,3
+O-1439,2025-03-15,C-296,Wei Chen,South,Furniture,Laptop,9,1962.0799999999999,00:21:00.0000000,,Cash,Cancelled,,2025,3
+O-1440,2025-03-16,C-377,John Doe,South,Furniture,Rice Bag,6,674.14999999999998,00:16:00.0000000,,Bank Transfer,Cancelled,,2025,3
+O-1441,2025-03-17,C-679,Wei Chen,South,Electronics,Rice Bag,2,1733.3499999999999,00:03:00.0000000,,Bank Transfer,Cancelled,,2025,3
+O-1442,2025-03-18,C-137,Jane Smith,West,Groceries,Headphones,10,826.66999999999996,00:08:00.0000000,,Bank Transfer,Returned,,2025,3
+O-1443,2025-03-19,C-775,John Doe,East,Groceries,Headphones,9,472.23000000000002,00:11:00.0000000,,PayPal,Delivered,,2025,3
+O-1444,2025-03-20,C-516,Fatima Noor,North,Furniture,Laptop,9,1707.1900000000001,00:17:00.0000000,,Cash,Pending,,2025,3
+O-1445,2025-03-21,C-698,Jane Smith,East,Furniture,T-Shirt,10,602.50999999999999,00:12:00.0000000,,PayPal,Returned,,2025,3
+O-1446,2025-03-22,C-711,John Doe,East,Groceries,T-Shirt,6,971.66999999999996,00:15:00.0000000,,PayPal,Returned,,2025,3
+O-1447,2025-03-23,C-314,Maria Garcia,West,Furniture,Table,10,1784.48,00:06:00.0000000,,Cash,Returned,,2025,3
+O-1448,2025-03-24,C-523,Wei Chen,North,Groceries,Headphones,3,1256.9000000000001,00:06:00.0000000,,PayPal,Delivered,,2025,3
+O-1449,2025-03-25,C-384,Ali Hassan,North,Other,Rice Bag,1,761.88999999999999,00:01:00.0000000,,PayPal,Returned,,2025,3
+O-1450,2025-03-26,C-823,Unknown,North,Clothing,Sofa,2,1744.5999999999999,00:07:00.0000000,,Cash,Pending,,2025,3
+O-1451,2025-03-27,C-559,Ali Hassan,South,Furniture,Table,3,1039.3800000000001,00:18:00.0000000,,Bank Transfer,Pending,,2025,3
+O-1452,2025-03-28,C-132,Maria Garcia,West,Groceries,Headphones,5,513.21000000000004,00:21:00.0000000,,PayPal,Returned,,2025,3
+O-1453,2025-03-29,C-405,Maria Garcia,West,Electronics,Rice Bag,5,429.14999999999998,00:02:00.0000000,,Cash,Returned,,2025,3
+O-1454,2025-03-30,C-248,Maria Garcia,East,Electronics,Headphones,10,31.079999999999998,00:28:00.0000000,,Credit Card,Pending,,2025,3
+O-1456,2025-04-01,C-840,Maria Garcia,South,Electronics,T-Shirt,2,644.09000000000003,00:12:00.0000000,,Bank Transfer,Cancelled,,2025,4
+O-1457,2025-04-02,C-358,John Doe,South,Groceries,T-Shirt,5,1410.9200000000001,00:03:00.0000000,,PayPal,Cancelled,,2025,4
+O-1458,2025-04-03,C-806,Jane Smith,East,Electronics,Rice Bag,7,1983.0799999999999,00:23:00.0000000,,Credit Card,Pending,,2025,4
+O-1460,2025-04-05,C-523,Jane Smith,North,Furniture,Headphones,4,1955.75,00:01:00.0000000,,PayPal,Pending,,2025,4
+O-1461,2025-04-06,C-736,John Doe,West,Groceries,Rice Bag,2,566.26999999999998,00:16:00.0000000,,Bank Transfer,Pending,,2025,4
+O-1462,2025-04-07,C-617,Fatima Noor,East,Furniture,Headphones,3,1785.79,00:02:00.0000000,,Bank Transfer,Returned,,2025,4
+O-1463,2025-04-08,C-414,Maria Garcia,South,Furniture,Rice Bag,9,1920.8199999999999,00:12:00.0000000,,PayPal,Delivered,,2025,4
+O-1464,2025-04-09,C-619,Fatima Noor,South,Electronics,Sofa,7,1741.29,00:03:00.0000000,,Credit Card,Returned,,2025,4
+O-1465,2025-04-10,C-779,Fatima Noor,West,Groceries,Laptop,10,529.62,00:15:00.0000000,,Credit Card,Returned,,2025,4
+O-1466,2025-04-11,C-905,Maria Garcia,East,Clothing,Sofa,7,1322.03,00:12:00.0000000,,Cash,Pending,,2025,4
+O-1467,2025-04-12,C-678,John Doe,East,Furniture,Laptop,5,915.15999999999997,00:04:00.0000000,,Cash,Delivered,,2025,4
+O-1468,2025-04-13,C-435,John Doe,North,Other,Rice Bag,3,1585.5999999999999,00:15:00.0000000,,Bank Transfer,Returned,,2025,4
+O-1470,2025-04-15,C-256,Ali Hassan,West,Furniture,Sofa,8,1991.6300000000001,00:28:00.0000000,,Bank Transfer,Pending,,2025,4
+O-1473,2025-04-18,C-475,Wei Chen,East,Groceries,Sofa,4,921.62,00:26:00.0000000,,Credit Card,Cancelled,,2025,4
+O-1474,2025-04-19,C-222,John Doe,West,Groceries,T-Shirt,6,645.75999999999999,00:02:00.0000000,,Credit Card,Pending,,2025,4
+O-1475,2025-04-20,C-141,Jane Smith,East,Furniture,Rice Bag,8,1850.8800000000001,00:07:00.0000000,,Bank Transfer,Returned,,2025,4
+O-1476,2025-04-21,C-341,John Doe,North,Furniture,Rice Bag,6,1757.25,00:03:00.0000000,,Cash,Returned,,2025,4
+O-1477,2025-04-22,C-629,Jane Smith,South,Furniture,Table,4,739.0,00:18:00.0000000,,PayPal,Delivered,,2025,4
+O-1478,2025-04-23,C-921,Wei Chen,East,Furniture,Table,3,1522.22,00:14:00.0000000,,PayPal,Delivered,,2025,4
+O-1479,2025-04-24,C-656,Wei Chen,South,Furniture,T-Shirt,8,700.85000000000002,00:01:00.0000000,,Credit Card,Pending,,2025,4
+O-1480,2025-04-25,C-531,Ali Hassan,West,Electronics,Headphones,3,123.69,00:01:00.0000000,,PayPal,Pending,,2025,4
+O-1481,2025-04-26,C-183,Fatima Noor,West,Groceries,Table,5,1750.72,00:29:00.0000000,,Bank Transfer,Delivered,,2025,4
+O-1482,2025-04-27,C-882,Jane Smith,North,Furniture,Rice Bag,10,1839.4200000000001,00:23:00.0000000,,Credit Card,Delivered,,2025,4
+O-1483,2025-04-28,C-142,Ali Hassan,South,Electronics,Rice Bag,7,415.51999999999998,00:27:00.0000000,,Credit Card,Cancelled,,2025,4
+O-1484,2025-04-29,C-980,Wei Chen,North,Other,Sofa,4,335.51999999999998,00:11:00.0000000,,PayPal,Cancelled,,2025,4
+O-1485,2025-04-30,C-350,Fatima Noor,North,Electronics,Laptop,9,746.25,00:04:00.0000000,,Cash,Returned,,2025,4
+O-1486,2025-05-01,C-548,Ali Hassan,East,Furniture,Headphones,7,262.83999999999997,00:15:00.0000000,,PayPal,Pending,,2025,5
+O-1487,2025-05-02,C-605,Fatima Noor,East,Furniture,Headphones,1,1047.4300000000001,00:15:00.0000000,,PayPal,Pending,,2025,5
+O-1488,2025-05-03,C-955,Jane Smith,East,Furniture,Headphones,3,1710.0,00:17:00.0000000,,Cash,Delivered,,2025,5
+O-1489,2025-05-04,C-232,Ali Hassan,West,Groceries,Sofa,10,886.90999999999997,00:14:00.0000000,,Cash,Pending,,2025,5
+O-1490,2025-05-05,C-966,Unknown,East,Furniture,Headphones,6,349.18000000000001,00:27:00.0000000,,Credit Card,Returned,,2025,5
+O-1491,2025-05-06,C-782,Unknown,East,Furniture,Sofa,8,1804.76,00:01:00.0000000,,PayPal,Returned,,2025,5
+O-1492,2025-05-07,C-607,Jane Smith,South,Groceries,Table,3,1687.3299999999999,00:07:00.0000000,,Credit Card,Cancelled,,2025,5
+O-1493,2025-05-08,C-458,Wei Chen,West,Clothing,Rice Bag,9,651.25,00:23:00.0000000,,Cash,Cancelled,,2025,5
+O-1494,2025-05-09,C-860,Ali Hassan,North,Other,T-Shirt,6,825.52999999999997,00:07:00.0000000,,Cash,Pending,,2025,5
+O-1495,2025-05-10,C-686,Unknown,North,Electronics,T-Shirt,7,745.55999999999995,00:05:00.0000000,,Bank Transfer,Pending,,2025,5
+O-1496,2025-05-11,C-692,Jane Smith,West,Clothing,Laptop,3,1586.79,00:07:00.0000000,,PayPal,Returned,,2025,5
+O-1497,2025-05-12,C-993,Fatima Noor,South,Furniture,Rice Bag,6,1545.5899999999999,00:04:00.0000000,,Credit Card,Pending,,2025,5
+O-1498,2025-05-13,C-681,Wei Chen,West,Other,Sofa,7,810.32000000000005,00:14:00.0000000,,Cash,Returned,,2025,5
+O-1499,2025-05-14,C-506,Maria Garcia,West,Groceries,Sofa,9,73.599999999999994,00:02:00.0000000,,Bank Transfer,Cancelled,,2025,5
